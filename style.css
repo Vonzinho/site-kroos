@@ -1,0 +1,27 @@
+h1 {
+    color:#00008B;
+}
+h2 {
+    color:rgb(35, 127, 169);
+}
+#interesses {
+    background-color: purple;
+    text-align: center;
+}
+
+#sejabemvindo
+{
+    text-align: center;
+}
+
+#minhabiografia 
+{
+color:#000080; 
+text-align: center;
+}
+
+.titulos
+{
+    color: yellow;
+    font-size: x-large;
+}
