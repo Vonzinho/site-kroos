@@ -2,6 +2,8 @@
 body 
 {
 background-color:  #90E0EF;
+font-family:'Lucida Handwriting', Cursive;
+text-align: center;
 }
 
 h1 {
@@ -13,12 +15,26 @@ h2 {
 }
 
 #interesses {
-    background-color: purple;
+    background-color:darkmagenta;
     text-align: center;
 }
 
 #sejabemvindo
 {
     text-align: center;
+}
+
+ul {
+    list-style-type:none; /*remover pontos*/
+}
+
+li{
+    display:inline; /*deixar linha na horizontal*/
+    padding: 20px;  /* espaçamento entre linhas*/
+}
+
+a:hover { /*ao oassar o mouse na letra, muda a cor*/
+    color:black
+
 }
 
