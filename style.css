@@ -37,4 +37,21 @@ a:hover { /*ao oassar o mouse na letra, muda a cor*/
     color:black
 
 }
+ 
+.IMAGEM
+{
+border-style: solid;        /*borda*/
+border-width: 10px;
+border-color:  TOMATO ;
+}
 
+.IMAGEM1
+{
+    border-style: SOLID;
+    border-width: 10px;
+    border-color: #00008B;
+}
+
+img{
+    max-width: 100%; 
+}
