@@ -53,5 +53,21 @@ border-color:  TOMATO ;
 }
 
 img{
-    max-width: 100%; 
+    max-width: 100%; /*maximo tamanho da imagem*/
 }
+
+.galeria
+{
+width: 80%;  /*largura da imagem*/
+height: auto;  /* altura*/ 
+border-radius: 8px;
+transition: transform 0.2;
+display: grid;
+}
+
+.galeria img
+{
+width: 50%;
+height: auto;
+}
+
